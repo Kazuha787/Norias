@@ -1,0 +1,37 @@
+{
+  "name": "naoris-auto-bot",
+  "version": "1.0.0",
+  "description": "An automated bot for interacting with the Naoris Protocol network.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airdropinsiders/Naoris-Auto-Bot.git"
+  },
+  "keywords": [
+    "naoris",
+    "bot",
+    "automation",
+    "heartbeat",
+    "crypto"
+  ],
+  "author": "airdropinsiders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airdropinsiders/Naoris-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/airdropinsiders/Naoris-Auto-Bot#readme",
+  "dependencies": {
+      "axios": "^1.6.2",
+      "chalk": "^5.3.0",
+      "https-proxy-agent": "^7.0.2", 
+      "socks-proxy-agent": "^8.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

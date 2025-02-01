@@ -1,0 +1,10 @@
+[
+    {
+      "walletAddress": "0x...",
+      "token": "token1..."
+    },
+    {
+      "walletAddress": "0x...", 
+      "token": "token2..."
+    }
+  ]
