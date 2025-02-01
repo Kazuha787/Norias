@@ -21,8 +21,8 @@ Naoris Auto Bot is an automated bot designed to interact with the Naoris Protoco
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/airdropinsiders/Naoris-Auto-Bot.git
-   cd Naoris-Auto-Bot
+   git clone https://github.com/Kazuha787/Norias.git
+   cd Norias
    ```
 2. Install dependencies:
    ```
